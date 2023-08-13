@@ -1,6 +1,6 @@
-const APP_ID = "3d167d51b402407c9f36367fdd2b5a94"
-const TOKEN = "007eJxTYNirGZjyffL+6oJtz290KjrcU+bcoWCnLsfz3rdLi39tx2EFBuMUQzPzFFPDJBMDIxMD82TLNGMzYzPztJQUoyTTREuTqCWnUxoCGRkiVyowMEIhiM/DEJaZkprvnJiTk5mXzsAAAPOnIO0="
-const CHANNEL = "VideoCalling"
+const APP_ID = "9a9a205d6d6c4ce7b2d47ab2222ecdc9"
+const TOKEN = "007eJxTYNirGZjyffL+007eJxTYJD04diXJLfa+5Fy6w7rjR33I671hS9vsA37rdvJ++tYgZwCg2WiZaKRgWmKWYpZsklyqnmSUYqJeWKSERCkJqckW3KI3kxpCGRkuMnZyczIAIEgPg9DWWZKan5yYk5OZl46AwMAH38iCA==+bcoWCnLsfz3rdLi39tx2EFBuMUQzPzFFPDJBMDIxMD82TLNGMzYzPztJQUoyTTREuTqCWnUxoCGRkiVyowMEIhiM/DEJaZkprvnJiTk5mXzsAAAPOnIO0="
+const CHANNEL = "videocalling"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
